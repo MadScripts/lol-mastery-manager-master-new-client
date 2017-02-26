@@ -1,9 +1,9 @@
 LoL Mastery Manager New Client v0.5
 ===================
 
-[DOWNLOAD](https://github.com/dewster/lol-mastery-manager-new-client/releases/latest)
+[Download the installer](https://github.com/dewster/lol-mastery-manager-new-client/releases/latest)
 
-> **NOTICE:** Only work to 1280x720 client size.
+> **NOTICE:** Only works for 1280x720 client size.
 
 A tool for managing mastery pages in League of Legends. Inspired by [Championify](https://github.com/dustinblackman/Championify).
 
@@ -40,7 +40,5 @@ I can't give you any kind of update now or anytime in the immediate future, but 
 As of right now only Windows is supported, but OS X support is being investigated.
 
 ### Big high five to:
-MadScripts https://github.com/MadScripts - Creat original Mastery Manager v1
-
-
-Maxdeviant https://github.com/maxdeviant/ - Fixed Mastery Manager v1
+Maxdeviant https://github.com/maxdeviant - Created original Mastery Manager v1
+MadScripts https://github.com/MadScripts - Fixed Mastery Manager v1
